@@ -13,7 +13,7 @@ body {
 
 .main {
   display: flex;
-  height: 100vh;
+  height: calc(100vh - 19px);
   width: 100%;
   justify-content: center;
   align-items: center;
